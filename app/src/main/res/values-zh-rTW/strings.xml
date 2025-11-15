@@ -177,9 +177,9 @@
     <string name="settings_security_mode_summary">啟用安全模式以在最近應用程式列表中隱藏螢幕內容</string>
     <string name="settings_dark_mode_title">暗黑模式</string>
     <string name="settings_dark_mode_summary">不要讓光亮瞎了你的眼！</string>
-    <string name="settings_import_old_galleries">匯入以前的相簿string>
+    <string name="settings_import_old_galleries">匯入以前的相簿</string>
     <string name="settings_user_id">用戶ID</string>
-    <string name="settings_oss">開放原始碼提示ng>
+    <string name="settings_oss">開放原始碼提示</streing>
 
     <!-- MANAGE FAVORITES -->
 
