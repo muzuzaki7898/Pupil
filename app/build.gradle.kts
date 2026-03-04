@@ -64,6 +64,7 @@ android {
 }
 
 dependencies {
+    implementation ("com.google.mlkit:text-recognition:16.0.0")
     implementation(libs.kotlin.stdlib.jdk8)
     implementation(libs.kotlinx.coroutines.android)
     implementation(libs.kotlinx.serialization.json)
